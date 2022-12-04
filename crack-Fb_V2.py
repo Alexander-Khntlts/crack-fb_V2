@@ -3,7 +3,7 @@
 
 ###>[ INFO AUTHOR AGAK GANS]<###
 #
-Recode By ='FerlyXD'
+author ='FerlyXD'
 github ='github.com/Alexander-Khntlts'
 #
 
