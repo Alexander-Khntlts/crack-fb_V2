@@ -754,6 +754,6 @@ if __name__=='__main__':
 	except:pass
 	try:os.system('clear')
 	except:pass
-	basari_tamvan(f'\n\t{x} {h}Halo Selamat Datang Para Heker Termux :v{x}')
+	basari_tamvan(f'\n\t{x} {h}Halo Selamat Mengunakan Semoga Hokii :v{x}')
 	time.sleep(3)
 	login()
